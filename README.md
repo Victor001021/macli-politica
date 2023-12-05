@@ -14,7 +14,5 @@
 O Proprietário se reserva o direito de fazer alterações nesta política de privacidade a qualquer momento, através de notificação a seus Usuários nesta página e possivelmente dentro deste Serviço (este Aplicativo) e/ou – na medida em que for técnica e juridicamente viável – enviando um aviso para os Usuários através de quaisquer informações de contato disponíveis para o Proprietário. É altamente recomendável checar esta página regularmente, consultando a data da última modificação informada na parte inferior.<br><br>
 Caso as mudanças afetem as atividades de processamento realizadas com base na anuência do Usuário, o Proprietário coletará nova anuência do Usuário, onde for exigida.<br><br>
  
- 
 Esta política de privacidade se refere somente a este Aplicativo, se não afirmado diferentemente neste documento.<br><br>
-Última atualização: 5 de Dezembro de 2023<br> 
-
+Última atualização: 5 de Dezembro de 2023<br>
