@@ -1,9 +1,5 @@
 <h1>Politica de Privacidade</h1>
-
-    <div>
-        <p>
-
-            <b>Armazenamento de Fotos</b> <br><br>
+ <b>Armazenamento de Fotos</b> <br><br>
             Ao utilizar nosso Serviço, você pode optar por fazer o download de fotos da API Cataas para o seu dispositivo. Nesse caso, informamos que as fotos serão temporariamente armazenadas na memória do seu dispositivo para facilitar o processo de download. <br><br>
 
            <b> Coleta e Uso de informações </b><br><br>
@@ -21,8 +17,4 @@ Caso as mudanças afetem as atividades de processamento realizadas com base na a
  
 Esta política de privacidade se refere somente a este Aplicativo, se não afirmado diferentemente neste documento.<br><br>
 Última atualização: 5 de Dezembro de 2023<br> 
- 
 
-
-        </p>
-    </div>
