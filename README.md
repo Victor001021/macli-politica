@@ -2,11 +2,11 @@
  <b>Armazenamento de Fotos</b> <br><br>
             Ao utilizar nosso Serviço, você pode optar por fazer o download de fotos da API Cataas para o seu dispositivo. Nesse caso, informamos que as fotos serão temporariamente armazenadas na memória do seu dispositivo para facilitar o processo de download. <br><br>
 
-           <b> Coleta e Uso de informações </b><br><br>
+<b> Coleta e Uso de informações </b><br><br>
            Não coletamos informações pessoais identificáveis durante o processo de armazenamento de fotos. As fotos armazenadas na memória do dispositivo são exclusivamente para o seu benefício, 
            permitindo que você acesse as imagens baixadas sem a necessidade de baixá-las repetidamente. <br><br>
         
-           <b> Compartilhamento de Informações </b><br><br>
+<b> Compartilhamento de Informações </b><br><br>
            Não compartilhamos as fotos armazenadas na memória do dispositivo com terceiros. As fotos são de sua propriedade exclusiva, e não acessamos, compartilhamos ou utilizamos essas fotos para qualquer finalidade que não seja proporcionar uma melhor experiência de usuário.<br><br>
         
 
